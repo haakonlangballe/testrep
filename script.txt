@@ -1,3 +1,6 @@
+Endringer av Haakon
+
+
 # https://services.github.com/on-demand/git-trouble/breaking-things-with-git
 
 # eller copy /b filed.md,,file$d.md;
